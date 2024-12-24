@@ -1,0 +1,112 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+nav {
+    margin: -8px;
+    width: 99.5vw;
+    background-color: #f5f5f5;
+    height: 8vh;
+    border-bottom: 2px solid #d3d3d3;
+}
+.oneheadsec{
+    position: absolute;
+    top: 10px;
+   margin-left: 100px;
+    gap: 10px;
+    display: flex;
+}
+.mail{
+    gap: 10px;
+    margin: 5px;
+    display: flex;
+}
+.mail img{
+    width: 25px;
+    color: blue;
+}
+.mail .info{
+  font-size: 20px;
+  font-family: sans-serif;
+    color: #0f47f8;
+    align-items: center;
+    display: flex;
+}
+.phone{
+    gap: 10px;
+    display: flex;
+}
+.phone img{
+    width: 25px;
+}
+.number{ 
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #0f47f8;
+    align-items: center;
+    display: flex;
+}
+.twoheadsec{
+    top: 15px;
+    gap: 15px;
+     right: 270px;
+    position: absolute;
+    display: flex;
+ width: 25px;
+}
+.header{
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    gap: 10px;
+    top: 20px;
+    height: 10vh;
+    position: relative;
+    
+}
+.img img{
+    width: 200px;
+}
+.buttons{
+    display: flex;
+    gap: 15px;
+}
+.home{
+    background-color: white;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 19px;
+   border: none;
+   color: #0f47f8;
+}
+.portfolio{
+    background-color: white;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 19px;
+   border: none;
+   color: #0f47f8;
+}
+.blog{
+    background-color: white;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 19px;
+   border: none;
+   color: #0f47f8;
+}
+.pages{
+    background-color: white;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 19px;
+   border: none;
+   color: #0f47f8;
+}
+.features{
+    background-color: white;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 19px;
+   border: none;
+   color: #0f47f8;
+}
